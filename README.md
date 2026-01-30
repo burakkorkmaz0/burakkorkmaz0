@@ -1,6 +1,6 @@
 # Hi, I'm M. Burak Korkmaz! 👋
 
-I am a senior **Artificial Intelligence and Data Engineering** student at **Istanbul Technical University (ITU)**, graduating in June 2027. I love solving real-world problems using data science and machine learning. I am always looking for new ways to improve my technical skills and gain new experiences.
+I am a junior **Artificial Intelligence and Data Engineering** student at **Istanbul Technical University (ITU)**, graduating in June 2027. I love solving real-world problems using data science and machine learning. I am always looking for new ways to improve my technical skills and gain new experiences.
 
 ### 🛠️ Technical Skills
 * **Languages:** Python (PyTorch, Scikit-learn, Pandas), C++ (OOP & Data Structures), and SQL.

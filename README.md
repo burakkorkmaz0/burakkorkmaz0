@@ -20,5 +20,5 @@ I am a senior **Artificial Intelligence and Data Engineering** student at **Ista
 * **ITU UZAYTEK:** Worked in the avionics team for the TEKNOFEST Model Satellite competition.
 
 ### 📫 Contact Me
-* **LinkedIn:** [https://www.linkedin.com/in/burak-korkmaz-625aab248/]([https://www.linkedin.com/in/burakkorkmaz0](https://www.linkedin.com/in/burak-korkmaz-625aab248/))
+* **LinkedIn:** [https://www.linkedin.com/in/burak-korkmaz-625aab248/](https://www.linkedin.com/in/burakkorkmaz0](https://www.linkedin.com/in/burak-korkmaz-625aab248/))
 * **Email:** [korkmazmu22@itu.edu.tr](mailto:korkmazmu22@itu.edu.tr)
